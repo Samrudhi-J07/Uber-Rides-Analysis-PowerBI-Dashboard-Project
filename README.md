@@ -13,6 +13,23 @@ This project presents an interactive Power BI dashboard developed to analyze Ube
 - Time-based ride analysis
 - Trip volume and revenue KPIs
 - Interactive filters for detailed exploration
+## 📸 Dashboard Preview
+
+### Dashboard View 1
+![Uber Dashboard 1](dashboard1.png)
+
+### Dashboard View 2
+![Uber Dashboard 2](dashboard2.png)
+
+### Dashboard View 3
+![Uber Dashboard 3](dashboard3.png)
+
+### Dashboard View 4
+![Uber Dashboard 4](dashboard4.png)
+
+*Figure: Interactive Power BI dashboards analyzing Uber ride trends, demand patterns, and KPIs.*
+
+
 
 ## 🛠 Tools & Technologies
 - Power BI
